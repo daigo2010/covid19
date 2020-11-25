@@ -1,0 +1,22 @@
+{
+  "name": "toyo-covid19",
+  "version": "1.0.0",
+  "description": "The state of the infection of the new coronavirus (COVID19) in Japan was summarized visually from a press release from the Ministry of Health, Labor and Welfare (MHLW).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daigo2010/covid19.git"
+  },
+  "author": "Kazuki OGIWARA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daigo2010/covid19/issues"
+  },
+  "homepage": "https://toyokeizai.net/sp/visual/tko/covid19/",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
