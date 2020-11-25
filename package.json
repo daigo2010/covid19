@@ -17,6 +17,7 @@
   },
   "homepage": "https://toyokeizai.net/sp/visual/tko/covid19/",
   "devDependencies": {
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "node-sass": "^5.0.0"
   }
 }
